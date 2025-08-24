@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/home/jrr/a1-jesse-rr/Morelli_v0.1.1/src</OriginalElement>
+  <nodes>
+    <node x="185.0" y="495.0">entidades.TipoJogada</node>
+    <node x="0.0" y="222.0">entidades.Faixa</node>
+    <node x="454.0" y="495.0">entidades.Cor</node>
+    <node x="167.0" y="222.0">entidades.JogadaMorelli</node>
+    <node x="181.0" y="0.0">entidades.Tabuleiro</node>
+    <node x="464.0" y="387.0">entidades.Ajuda</node>
+    <node x="0.0" y="387.0">interfaceGrafica.TelaJogador</node>
+    <node x="393.0" y="0.0">entidades.Jogador</node>
+    <node x="272.0" y="387.0">entidades.NetGames</node>
+    <node x="0.0" y="495.0">entidades.ImagemDeTabuleiro</node>
+    <node x="0.0" y="0.0">entidades.Posicao</node>
+    <node x="330.0" y="495.0">morelli.Morelli</node>
+    <node x="404.0" y="222.0">interfaceGrafica.AtorJogador</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="287.0" y="269.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
